@@ -1,0 +1,7 @@
+Create policies and add below roles and attach it to the lambda function.
+
+Roles:
+
+1. DescribeSnapshots
+2. DescribeInstances 
+3. DeleteSnapshot
